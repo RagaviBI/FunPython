@@ -1,0 +1,16 @@
+x=10
+y=50
+print(x+y)
+m=60
+n=70
+print(m*n)
+#Comment section 
+print(x*y) #multiplication of x and y
+""" Variables in Python
+"""
+a=90
+b=60.657
+type(a)
+
+c=55.67
+type(c)  #not displaying variable type 
