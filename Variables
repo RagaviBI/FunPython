@@ -1,16 +1,16 @@
-x=10
-y=50
+x,y = 10,50
 print(x+y)
-m=60
-n=70
+m,n=60,70
 print(m*n)
-#Comment section 
+
+#Single line comment
 print(x*y) #multiplication of x and y
-""" Variables in Python
+""" 
+ We can add multiple comments in this field
 """
 a=90
 b=60.657
-type(a)
+print(type(a)) # returns type of object
 
 c=55.67
-type(c)  #not displaying variable type 
+type(c)  #not displaying variable type
